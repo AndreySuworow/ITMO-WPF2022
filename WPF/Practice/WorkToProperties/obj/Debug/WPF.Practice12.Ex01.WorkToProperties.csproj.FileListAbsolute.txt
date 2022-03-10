@@ -1,0 +1,16 @@
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\bin\Debug\WPF.Practice12.Ex01.WorkToProperties.exe.config
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\bin\Debug\WPF.Practice12.Ex01.WorkToProperties.exe
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\bin\Debug\WPF.Practice12.Ex01.WorkToProperties.pdb
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\obj\Debug\WPF.Practice12.Ex01.WorkToProperties.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\obj\Debug\WPF.Practice12.Ex01.WorkToProperties.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\obj\Debug\App.g.cs
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\obj\Debug\WPF.Practice12.Ex01.WorkToProperties_MarkupCompile.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\obj\Debug\WPF.Practice12.Ex01.WorkToProperties_MarkupCompile.lref
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\obj\Debug\MainWindow.baml
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\obj\Debug\WPF.Practice12.Ex01.WorkToProperties.g.resources
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\obj\Debug\WPF.Practice12.Ex01.WorkToProperties.Properties.Resources.resources
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\obj\Debug\WPF.Practice12.Ex01.WorkToProperties.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\obj\Debug\WPF.Practice12.Ex01.WorkToProperties.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\obj\Debug\WPF.Practice12.Ex01.WorkToProperties.exe
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice12\WPF.Practice12.Ex01.WorkToProperties\obj\Debug\WPF.Practice12.Ex01.WorkToProperties.pdb

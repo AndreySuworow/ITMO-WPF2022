@@ -1,0 +1,16 @@
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\bin\Debug\WPF.Practice03.Ex01.WpfRoutedEvent.exe.config
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\bin\Debug\WPF.Practice03.Ex01.WpfRoutedEvent.exe
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\bin\Debug\WPF.Practice03.Ex01.WpfRoutedEvent.pdb
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\obj\Debug\WPF.Practice03.Ex01.WpfRoutedEvent.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\obj\Debug\WPF.Practice03.Ex01.WpfRoutedEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\obj\Debug\App.g.cs
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\obj\Debug\WPF.Practice03.Ex01.WpfRoutedEvent_MarkupCompile.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\obj\Debug\WPF.Practice03.Ex01.WpfRoutedEvent_MarkupCompile.lref
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\obj\Debug\MainWindow.baml
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\obj\Debug\WPF.Practice03.Ex01.WpfRoutedEvent.g.resources
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\obj\Debug\WPF.Practice03.Ex01.WpfRoutedEvent.Properties.Resources.resources
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\obj\Debug\WPF.Practice03.Ex01.WpfRoutedEvent.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\obj\Debug\WPF.Practice03.Ex01.WpfRoutedEvent.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\obj\Debug\WPF.Practice03.Ex01.WpfRoutedEvent.exe
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice03\WPF.Practice03.Ex01.WpfRoutedEvent\obj\Debug\WPF.Practice03.Ex01.WpfRoutedEvent.pdb

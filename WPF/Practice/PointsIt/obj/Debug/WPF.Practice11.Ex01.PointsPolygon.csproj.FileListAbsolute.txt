@@ -1,0 +1,16 @@
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\bin\Debug\WPF.Practice11.Ex01.PointsIt.exe.config
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\bin\Debug\WPF.Practice11.Ex01.PointsIt.exe
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\bin\Debug\WPF.Practice11.Ex01.PointsIt.pdb
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\obj\Debug\WPF.Practice11.Ex01.PointsPolygon.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\obj\Debug\WPF.Practice11.Ex01.PointsPolygon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\obj\Debug\App.g.cs
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\obj\Debug\WPF.Practice11.Ex01.PointsIt_MarkupCompile.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\obj\Debug\WPF.Practice11.Ex01.PointsIt_MarkupCompile.lref
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\obj\Debug\MainWindow.baml
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\obj\Debug\WPF.Practice11.Ex01.PointsIt.g.resources
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\obj\Debug\WPF.Practice11.Ex01.PointsIt.Properties.Resources.resources
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\obj\Debug\WPF.Practice11.Ex01.PointsPolygon.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\obj\Debug\WPF.Practice11.Ex01.PointsPolygon.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\obj\Debug\WPF.Practice11.Ex01.PointsIt.exe
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice11\WPF.Practice11.Ex01.PointsIt\obj\Debug\WPF.Practice11.Ex01.PointsIt.pdb

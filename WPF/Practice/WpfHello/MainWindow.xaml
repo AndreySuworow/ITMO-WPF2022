@@ -1,0 +1,24 @@
+﻿<Window x:Class="WPF.Practice01.Ex01.WpfHello.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF.Practice01.Ex01.WpfHello"
+        mc:Ignorable="d"
+        Title="Window Hello!" Height="350" Width="500" Closing="Window_Closing">
+    <Grid>
+        <Menu HorizontalAlignment="Left" VerticalAlignment="Top">
+            <MenuItem Header="File">
+                <MenuItem Header="Exit"  Click="MenuItem_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <Label x:Name="lbl" HorizontalAlignment="Center" VerticalAlignment="Top">Пуск</Label>
+        <Button x:Name="SetBut" Content="Set Name" HorizontalAlignment="Left" Margin="88,84,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="SetBut_Click"/>
+        <Button x:Name="RetBut" Content="Ret Name" HorizontalAlignment="Left" Margin="88,209,0,0" VerticalAlignment="Top" Width="75" Height="26" Click="RetBut_Click"/>
+        <TextBox x:Name="setText" HorizontalAlignment="Left" Height="23" Margin="228,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="149" RenderTransformOrigin="0.494,-0.304" TextChanged="setText_TextChanged"/>
+        <Label x:Name="retLabel" Content="" HorizontalAlignment="Left" Margin="228,150,0,0" VerticalAlignment="Top" Width="149" Height="85"/>
+
+
+    </Grid>
+</Window>

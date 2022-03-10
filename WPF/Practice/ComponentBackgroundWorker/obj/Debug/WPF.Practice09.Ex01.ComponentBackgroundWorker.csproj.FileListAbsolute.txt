@@ -1,0 +1,16 @@
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\bin\Debug\WPF.Practice09.Ex01.ComponentBackgroundWorker.exe.config
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\bin\Debug\WPF.Practice09.Ex01.ComponentBackgroundWorker.exe
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\bin\Debug\WPF.Practice09.Ex01.ComponentBackgroundWorker.pdb
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\obj\Debug\WPF.Practice09.Ex01.ComponentBackgroundWorker.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\obj\Debug\WPF.Practice09.Ex01.ComponentBackgroundWorker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\obj\Debug\App.g.cs
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\obj\Debug\WPF.Practice09.Ex01.ComponentBackgroundWorker_MarkupCompile.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\obj\Debug\WPF.Practice09.Ex01.ComponentBackgroundWorker_MarkupCompile.lref
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\obj\Debug\MainWindow.baml
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\obj\Debug\WPF.Practice09.Ex01.ComponentBackgroundWorker.g.resources
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\obj\Debug\WPF.Practice09.Ex01.ComponentBackgroundWorker.Properties.Resources.resources
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\obj\Debug\WPF.Practice09.Ex01.ComponentBackgroundWorker.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\obj\Debug\WPF.Practice09.Ex01.ComponentBackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\obj\Debug\WPF.Practice09.Ex01.ComponentBackgroundWorker.exe
+C:\Users\Андрей\Desktop\СТПО\WPF\WPF.Practice\Practice09\WPF.Practice09.Ex01.ComponentBackgroundWorker\obj\Debug\WPF.Practice09.Ex01.ComponentBackgroundWorker.pdb
